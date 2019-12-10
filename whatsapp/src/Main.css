@@ -1,0 +1,24 @@
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css'); */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  height: 100vh;
+  border: 1px solid #dddddd;
+  box-sizing: border-box;
+}
+
+#root, #app-wrapper {
+  height: 100%;
+}
+
+#app-wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  position: relative;
+}

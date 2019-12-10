@@ -1,0 +1,30 @@
+.chat-body {
+  margin-left: 15px;
+  padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  border-bottom: 1px solid #dddddd;
+}
+.chat-body-top {
+  font-weight: bold;
+  color: #535353;
+  display: flex;
+  justify-content: space-between;
+}
+.chat-body-bottom {
+  color: #828282;
+  font-size: 14px;
+}
+.chat-body-time {
+  font-weight: 400;
+  font-size: 13px;
+  color: #828282;
+}
+.fa-check, .fa-check-double {
+  color: #cecece;
+}
+.green {
+  color: #35bc6c;
+}

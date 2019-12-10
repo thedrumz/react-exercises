@@ -1,0 +1,8 @@
+.chat {
+  display: flex;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+.chat:hover {
+  background-color: #e2fbf2;
+}

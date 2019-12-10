@@ -1,0 +1,8 @@
+.tabs-list {
+  display: flex;
+}
+.tabs-container {
+  display: flex;
+  justify-content: space-around;
+  flex: auto;
+}

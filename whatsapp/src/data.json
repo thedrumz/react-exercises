@@ -1,0 +1,54 @@
+{
+  "chatList": [
+    {
+      "image": "https://avatars.dicebear.com/v2/avataaars/.svg",
+      "phone": "+34 123456789",
+      "name": "",
+      "lastMessage": {
+        "text": "hola que tal?!",
+        "status": "received",
+        "date": "16:28"
+      }
+    },
+    {
+      "image": "https://avatars.dicebear.com/v2/avataaars/qwe.svg",
+      "phone": "+34 32164987",
+      "name": "Courtnei Love",
+      "lastMessage": {
+        "text": "Estás por ahí??",
+        "status": "readed",
+        "date": "12:35"
+      }
+    },
+    {
+      "image": "https://avatars.dicebear.com/v2/avataaars/123q.svg",
+      "phone": "+34 123456789",
+      "name": "Perico de los Palotes",
+      "lastMessage": {
+        "text": "Pues hombre no me va mal...",
+        "status": "readed",
+        "date": "Yesterday"
+      }
+    },
+    {
+      "image": false,
+      "phone": "+34 123456789",
+      "name": "",
+      "lastMessage": {
+        "text": "Chao!",
+        "status": "not-received",
+        "date": "12-04-2019"
+      }
+    },
+    {
+      "image": "https://avatars.dicebear.com/v2/avataaars/123qwert.svg",
+      "phone": "+34 123456789",
+      "name": "Marie",
+      "lastMessage": {
+        "text": "Chao!",
+        "status": "received",
+        "date": "01-03-2019"
+      }
+    }
+  ]
+}

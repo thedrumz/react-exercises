@@ -1,0 +1,26 @@
+.tab {
+  text-align: center;
+  flex: 1;
+  max-width: 120px;
+  cursor: pointer;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.tab:not(.active) {
+  color: #71bab0;
+}
+.tab.active {
+  border-bottom: 3px solid #fff;
+}
+
+.badge {
+  font-size: 12px;
+  position: relative;
+  top: -1px;
+  margin-left: 10px;
+  color: #065e52;
+  background-color: white;
+  border-radius: 50%;
+  padding: 3px 7px;
+}
