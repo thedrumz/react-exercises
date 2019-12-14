@@ -4,9 +4,9 @@ import Board from './Board/Board';
 import setBombs from './utils';
 
 function App() {
-  const size = 10;
+  const size = 20;
   const square = size * size;
-  const bombsPercent = 10 / 100;
+  const bombsPercent = 15 / 100;
   const bombs = parseInt(square * bombsPercent);
   const [ gameBoard, setGameBoard ] = useState(setBombs(square, bombs));
   const [ globalState, setGlobalState ] = useState([]);
